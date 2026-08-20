@@ -1,0 +1,52 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Playwright MCP artifacts
+.playwright-mcp/
+
+# Secrets (never commit)
+.env
+*.env
+
+# Logs / temp
+*.log
+
+# Backups
+*_backup.*
+*-backup.*
+
+# Editor workspace
+*.code-workspace
+.idea/
+.vscode/
+
+# Office lock/owner temp files
+~$*
+.~lock.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# Learner workspace — generated during the labs, never committed
+torch-vibe/
+
+# Generated lab artifacts (rebuildable from labs/resources/)
+labs/resources/data/
+data/defects/
+models/*.pt
+reports/
+
+# Distribution archives (rebuildable — never pushed to GitHub)
+*.zip
+
+# Superseded courseware versions (kept locally + on Drive, not in git)
+courseware/archive/
+
+# Claude Code agent config (local)
+.agents/
