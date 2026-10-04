@@ -1,6 +1,6 @@
 # Lab 2 — Setting Up Cursor, GitHub Copilot and Claude for PyTorch
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
 > **Learning outcome:** Set up a local Python environment with PyTorch and an AI coding assistant that can see your project files.
 
 ## Goal
@@ -136,4 +136,4 @@ pip freeze > requirements.txt
 
 [← Lab 1: What Is AI Vibe Coding — Your First PyTorch from a Prompt](../lab01-what-is-ai-vibe-coding-your-first-pytorch-from-a-prompt/README.md) · [All labs](../README.md) · [Lab 3: Prompting Patterns for Correct Deep Learning Code →](../lab03-prompting-patterns-for-correct-deep-learning-code/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

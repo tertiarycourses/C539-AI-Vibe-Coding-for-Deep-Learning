@@ -1,6 +1,6 @@
 # Lab 6 — Reviewing and Debugging AI-Generated PyTorch Code
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
 > **Learning outcome:** Review AI-generated PyTorch against a fixed checklist and correct each defect with a targeted follow-up prompt.
 
 ## Goal
@@ -103,4 +103,4 @@ review_notes.md lists all five defects with the line quoted, the effect on the r
 
 [← Lab 5: Computation Graphs and Autograd with AI Assistance](../lab05-computation-graphs-and-autograd-with-ai-assistance/README.md) · [All labs](../README.md) · [Lab 7: Neural Network Architectures, Activation and Loss Functions →](../lab07-neural-network-architectures-activation-and-loss-functions/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

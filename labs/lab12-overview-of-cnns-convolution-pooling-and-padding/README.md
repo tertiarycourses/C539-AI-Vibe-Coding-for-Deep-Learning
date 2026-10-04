@@ -1,6 +1,6 @@
 # Lab 12 — Overview of CNNs: Convolution, Pooling and Padding
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
 > **Learning outcome:** Reason about convolution, padding, stride and pooling well enough to predict a feature map's shape before running it.
 
 ## Goal
@@ -140,4 +140,4 @@ data/defects/ contains train and val folders with three class subfolders each an
 
 [← Lab 11: Saving, Loading and Iterating on Models](../lab11-saving-loading-and-iterating-on-models/README.md) · [All labs](../README.md) · [Lab 13: Vibe Coding a CNN Image Classifier →](../lab13-vibe-coding-a-cnn-image-classifier/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

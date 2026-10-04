@@ -1,6 +1,6 @@
 # Lab 3 — Prompting Patterns for Correct Deep Learning Code
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
 > **Learning outcome:** Apply a repeatable five-part prompting pattern that produces correct, runnable deep learning code.
 
 ## Goal
@@ -110,4 +110,4 @@ Your prompts.md is now genuinely useful — the template plus one worked example
 
 [← Lab 2: Setting Up Cursor, GitHub Copilot and Claude for PyTorch](../lab02-setting-up-cursor-github-copilot-and-claude-for-pytorch/README.md) · [All labs](../README.md) · [Lab 4: Vibe Coding PyTorch Tensor Operations →](../lab04-vibe-coding-pytorch-tensor-operations/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

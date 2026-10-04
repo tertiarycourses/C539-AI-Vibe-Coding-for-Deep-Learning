@@ -1,6 +1,6 @@
 # Lab 15 — Data Augmentation and Regularization via Prompts
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
 > **Learning outcome:** Apply augmentation, dropout, weight decay and early stopping, and measure how much each narrows the overfitting gap.
 
 ## Goal
@@ -137,4 +137,4 @@ datasets.py prints a validation pipeline containing no random transforms, and re
 
 [← Lab 14: Diagnosing Overfitting with AI Assistance](../lab14-diagnosing-overfitting-with-ai-assistance/README.md) · [All labs](../README.md) · [Lab 16: Transfer Learning with Pre-Trained Models →](../lab16-transfer-learning-with-pre-trained-models/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

@@ -1,6 +1,6 @@
 # Lab 20 — Evaluating and Visualizing Model Performance
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
 > **Learning outcome:** Build the evaluation views that reveal what a single metric hides, across all three ForgeSight models.
 
 ## Goal
@@ -146,4 +146,4 @@ reports/eval_wear.png, reports/eval_defects.png and reports/eval_forecast.png ea
 
 [← Lab 19: Tuning Sequence Models with Follow-Up Prompts](../lab19-tuning-sequence-models-with-follow-up-prompts/README.md) · [All labs](../README.md) · [Lab 21: Packaging a Complete Deep Learning Project →](../lab21-packaging-a-complete-deep-learning-project/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

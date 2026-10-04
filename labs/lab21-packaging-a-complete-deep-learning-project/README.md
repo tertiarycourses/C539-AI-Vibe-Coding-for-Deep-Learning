@@ -1,6 +1,6 @@
 # Lab 21 — Packaging a Complete Deep Learning Project
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
 > **Learning outcome:** Package models, code, dependencies and documentation into a project another person can run.
 
 ## Goal
@@ -144,4 +144,4 @@ A partner clones your project into a fresh folder, follows README.md alone, crea
 
 [← Lab 20: Evaluating and Visualizing Model Performance](../lab20-evaluating-and-visualizing-model-performance/README.md) · [All labs](../README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

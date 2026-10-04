@@ -1,6 +1,6 @@
 # Lab 7 — Neural Network Architectures, Activation and Loss Functions
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
 > **Learning outcome:** Choose hidden and output activations and match the loss function to the output layer.
 
 ## Goal
@@ -123,4 +123,4 @@ reports/activations.png shows three activations over three gradients, and the pr
 
 [← Lab 6: Reviewing and Debugging AI-Generated PyTorch Code](../lab06-reviewing-and-debugging-ai-generated-pytorch-code/README.md) · [All labs](../README.md) · [Lab 8: Vibe Coding a Regression Model in PyTorch →](../lab08-vibe-coding-a-regression-model-in-pytorch/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

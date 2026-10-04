@@ -1,6 +1,6 @@
 # Lab 11 — Saving, Loading and Iterating on Models
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
 > **Learning outcome:** Save a model's state_dict with its configuration, reload it into a fresh instance and prove the predictions are identical.
 
 ## Goal
@@ -125,4 +125,4 @@ models/qc_net_v1.pt exists and contains the state_dict, config, feat_mean, feat_
 
 [← Lab 10: Generating Training Loops, Optimizers and Metrics from Prompts](../lab10-generating-training-loops-optimizers-and-metrics-from-prompts/README.md) · [All labs](../README.md) · [Lab 12: Overview of CNNs: Convolution, Pooling and Padding →](../lab12-overview-of-cnns-convolution-pooling-and-padding/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

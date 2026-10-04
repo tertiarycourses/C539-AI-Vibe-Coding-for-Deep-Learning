@@ -1,6 +1,6 @@
 # Lab 19 — Tuning Sequence Models with Follow-Up Prompts
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
 > **Learning outcome:** Improve a sequence model through disciplined follow-up prompts and record what each change actually bought.
 
 ## Goal
@@ -126,4 +126,4 @@ reports/tuning_results.csv contains one row per configuration with the factor ch
 
 [← Lab 18: Vibe Coding an LSTM for Time Series Forecasting](../lab18-vibe-coding-an-lstm-for-time-series-forecasting/README.md) · [All labs](../README.md) · [Lab 20: Evaluating and Visualizing Model Performance →](../lab20-evaluating-and-visualizing-model-performance/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

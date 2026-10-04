@@ -1,6 +1,6 @@
 # Lab 13 — Vibe Coding a CNN Image Classifier
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
 > **Learning outcome:** Build, train and evaluate a convolutional network that classifies images into three defect classes.
 
 ## Goal
@@ -139,4 +139,4 @@ datasets.py prints three classes with their counts and the class_to_idx mapping.
 
 [← Lab 12: Overview of CNNs: Convolution, Pooling and Padding](../lab12-overview-of-cnns-convolution-pooling-and-padding/README.md) · [All labs](../README.md) · [Lab 14: Diagnosing Overfitting with AI Assistance →](../lab14-diagnosing-overfitting-with-ai-assistance/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

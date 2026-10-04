@@ -1,6 +1,6 @@
 # Lab 16 — Transfer Learning with Pre-Trained Models
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
 > **Learning outcome:** Fine-tune a pre-trained network by freezing its backbone and replacing the classifier head.
 
 ## Goal
@@ -129,4 +129,4 @@ transfer.py prints a trainable parameter count that is a tiny fraction of the ~1
 
 [← Lab 15: Data Augmentation and Regularization via Prompts](../lab15-data-augmentation-and-regularization-via-prompts/README.md) · [All labs](../README.md) · [Lab 17: Overview of RNNs, LSTM and GRU →](../lab17-overview-of-rnns-lstm-and-gru/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

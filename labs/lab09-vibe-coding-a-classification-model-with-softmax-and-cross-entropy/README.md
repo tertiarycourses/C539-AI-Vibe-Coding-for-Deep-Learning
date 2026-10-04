@@ -1,6 +1,6 @@
 # Lab 9 — Vibe Coding a Classification Model with Softmax and Cross Entropy
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
 > **Learning outcome:** Build a multi-class classifier that outputs raw logits and pair it correctly with cross entropy loss.
 
 ## Goal
@@ -127,4 +127,4 @@ baseline_qc.py prints class counts and the majority-class accuracy. proof_softma
 
 [← Lab 8: Vibe Coding a Regression Model in PyTorch](../lab08-vibe-coding-a-regression-model-in-pytorch/README.md) · [All labs](../README.md) · [Lab 10: Generating Training Loops, Optimizers and Metrics from Prompts →](../lab10-generating-training-loops-optimizers-and-metrics-from-prompts/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

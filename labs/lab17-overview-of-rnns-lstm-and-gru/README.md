@@ -1,6 +1,6 @@
 # Lab 17 — Overview of RNNs, LSTM and GRU
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
 > **Learning outcome:** Compare RNN, LSTM and GRU cells by their shapes, gates and parameter counts, and demonstrate why plain RNNs forget.
 
 ## Goal
@@ -133,4 +133,4 @@ rnn_cells.py prints output as torch.Size([16, 50, 32]) and h_n as torch.Size([1,
 
 [← Lab 16: Transfer Learning with Pre-Trained Models](../lab16-transfer-learning-with-pre-trained-models/README.md) · [All labs](../README.md) · [Lab 18: Vibe Coding an LSTM for Time Series Forecasting →](../lab18-vibe-coding-an-lstm-for-time-series-forecasting/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

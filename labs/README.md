@@ -1,4 +1,4 @@
-# Labs — AI Vibe Coding with PyTorch Deep Learning (`C539`)
+# Labs — AI Vibe Coding for Deep Learning (`C539`)
 
 21 hands-on labs across 4 topics. Work through them in order — each lab reuses the workspace, the scripts and the prompting habits of the one before it.
 
@@ -61,4 +61,4 @@ Each lab states the exact files it expects to already exist, so you can rejoin a
 
 All datasets, the image generator and the Lab 6 review script live in [`resources/`](resources/) — see that folder's README for what each file is and the baseline every model has to beat. Everything is synthetic and deterministic (seed 42), so your numbers should match the Learner Guide.
 
-_Tertiary Infotech Academy Pte Ltd · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · Version v1.1 · 4 October 2026_

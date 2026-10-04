@@ -1,6 +1,6 @@
 # Lab 18 — Vibe Coding an LSTM for Time Series Forecasting
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 04:** Vibe Coding Recurrent Networks for Sequence Data  
 > **Learning outcome:** Window and split a time series correctly and train an LSTM that beats a persistence baseline.
 
 ## Goal
@@ -144,4 +144,4 @@ windowing.py prints three contiguous ascending index ranges and the scaler stati
 
 [← Lab 17: Overview of RNNs, LSTM and GRU](../lab17-overview-of-rnns-lstm-and-gru/README.md) · [All labs](../README.md) · [Lab 19: Tuning Sequence Models with Follow-Up Prompts →](../lab19-tuning-sequence-models-with-follow-up-prompts/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

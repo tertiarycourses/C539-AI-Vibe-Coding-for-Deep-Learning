@@ -1,6 +1,6 @@
 # Lab 8 — Vibe Coding a Regression Model in PyTorch
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
 > **Learning outcome:** Build, train and honestly evaluate a regression network that predicts a continuous value.
 
 ## Goal
@@ -111,4 +111,4 @@ baseline_wear.py prints a baseline MAE and RMSE. train_wear.py prints matching p
 
 [← Lab 7: Neural Network Architectures, Activation and Loss Functions](../lab07-neural-network-architectures-activation-and-loss-functions/README.md) · [All labs](../README.md) · [Lab 9: Vibe Coding a Classification Model with Softmax and Cross Entropy →](../lab09-vibe-coding-a-classification-model-with-softmax-and-cross-entropy/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

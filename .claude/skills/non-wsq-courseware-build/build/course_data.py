@@ -1,5 +1,5 @@
 """
-SINGLE SOURCE OF TRUTH - C539 AI Vibe Coding with PyTorch Deep Learning (NON-WSQ).
+SINGLE SOURCE OF TRUTH - C539 AI Vibe Coding for Deep Learning (NON-WSQ).
 
 Every artifact (the slide deck PPT, the Lesson Plan LP, the Learner Guide LG +
 its Markdown mirror, and the labs/labNN-*/README.md files) is generated from
@@ -70,11 +70,11 @@ learn to catch it.
 """
 
 # ------------------------------------------------------------------ metadata
-TITLE        = "AI Vibe Coding with PyTorch Deep Learning"
-SHORT_TITLE  = "AI Vibe Coding with PyTorch Deep Learning"   # used in output filenames
+TITLE        = "AI Vibe Coding for Deep Learning"
+SHORT_TITLE  = "AI Vibe Coding for Deep Learning"   # used in output filenames
 COURSE_CODE  = "C539"                      # non-WSQ code - never a TGS- ref
-VERSION      = "v1.0"
-VERSION_DATE = "20 August 2026"
+VERSION      = "v1.1"
+VERSION_DATE = "4 October 2026"
 ORG          = "Tertiary Infotech Academy Pte Ltd"
 UEN          = "UEN: 201200696W"
 TRAINER      = "Dr. Alfred Ang"
@@ -269,7 +269,7 @@ LAB_SHOTS = {}
 
 # ------------------------------------------------------------------ Learner Guide content
 LG_INTRO = (
-    "This Learner Guide accompanies the 2-day course AI Vibe Coding with PyTorch Deep Learning (C539), "
+    "This Learner Guide accompanies the 2-day course AI Vibe Coding for Deep Learning (C539), "
     "conducted by Tertiary Infotech Academy Pte Ltd. It provides step-by-step instructions for all "
     "21 hands-on labs, organised into the 4 topics that follow the course slides and Lesson Plan. "
     "Across those 21 labs you build one project end to end — ForgeSight, a deep learning suite for a "
@@ -423,5 +423,6 @@ ICE_BREAKER = [
 
 # ------------------------------------------------------------------ version history
 VERSION_HISTORY = [
-    ("1.0", VERSION_DATE, "Initial release. 4 topics, 21 hands-on labs, 2 days / 15 instructional hours.", TRAINER),
+    ("1.0", "20 August 2026", "Initial release. 4 topics, 21 hands-on labs, 2 days / 15 instructional hours.", TRAINER),
+    ("1.1", VERSION_DATE, "Course title updated to AI Vibe Coding for Deep Learning.", TRAINER),
 ]

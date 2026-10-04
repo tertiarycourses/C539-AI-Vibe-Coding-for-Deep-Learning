@@ -1,6 +1,6 @@
-# AI Vibe Coding with PyTorch Deep Learning — Learner Guide
+# AI Vibe Coding for Deep Learning — Learner Guide
 
-**Course Code:** C539  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v1.0 · 20 August 2026**
+**Course Code:** C539  |  **Conducted by:** Tertiary Infotech Academy Pte Ltd (UEN 201200696W)  |  **Version v1.1 · 4 October 2026**
 
 ## Contents
 
@@ -39,7 +39,7 @@
 
 ## Introduction
 
-This Learner Guide accompanies the 2-day course AI Vibe Coding with PyTorch Deep Learning (C539), conducted by Tertiary Infotech Academy Pte Ltd. It provides step-by-step instructions for all 21 hands-on labs, organised into the 4 topics that follow the course slides and Lesson Plan. Across those 21 labs you build one project end to end — ForgeSight, a deep learning suite for a precision metal-parts factory — from an empty folder to a packaged, documented project, with an AI coding assistant writing the PyTorch alongside you.
+This Learner Guide accompanies the 2-day course AI Vibe Coding for Deep Learning (C539), conducted by Tertiary Infotech Academy Pte Ltd. It provides step-by-step instructions for all 21 hands-on labs, organised into the 4 topics that follow the course slides and Lesson Plan. Across those 21 labs you build one project end to end — ForgeSight, a deep learning suite for a precision metal-parts factory — from an empty folder to a packaged, documented project, with an AI coding assistant writing the PyTorch alongside you.
 
 Work through the labs in order: each one reuses the project folder, the data and the prompting habits established by the labs before it, and each lab states exactly which files it expects to already exist so you can rejoin if you fall behind. Every lab gives you a starting PROMPT to paste into your AI assistant (Cursor, GitHub Copilot Chat or Claude) and a 'Test it' step that tells you exactly what a correct result looks like. Read the generated code before you run it — deep learning code fails silently, and the point of this course is that you stay in control of the architecture, the loss and the evaluation rather than trusting the assistant to be right.
 

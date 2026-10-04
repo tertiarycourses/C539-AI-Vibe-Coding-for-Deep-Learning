@@ -1,6 +1,6 @@
 # Lab 14 — Diagnosing Overfitting with AI Assistance
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 03:** Vibe Coding Convolutional Neural Networks  
 > **Learning outcome:** Recognise overfitting from training and validation curves and locate the epoch where generalisation stops improving.
 
 ## Goal
@@ -125,4 +125,4 @@ reports/overfit_curves.png shows training loss falling while validation loss tur
 
 [← Lab 13: Vibe Coding a CNN Image Classifier](../lab13-vibe-coding-a-cnn-image-classifier/README.md) · [All labs](../README.md) · [Lab 15: Data Augmentation and Regularization via Prompts →](../lab15-data-augmentation-and-regularization-via-prompts/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

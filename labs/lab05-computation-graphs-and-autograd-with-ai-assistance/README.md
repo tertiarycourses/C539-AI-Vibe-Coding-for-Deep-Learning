@@ -1,6 +1,6 @@
 # Lab 5 — Computation Graphs and Autograd with AI Assistance
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
 > **Learning outcome:** Explain what autograd records, verify a gradient by hand, and show what detach and no_grad actually change.
 
 ## Goal
@@ -97,4 +97,4 @@ Part 1 prints x.grad as 26.0 and the assertion against your hand-derived 6x+2 pa
 
 [← Lab 4: Vibe Coding PyTorch Tensor Operations](../lab04-vibe-coding-pytorch-tensor-operations/README.md) · [All labs](../README.md) · [Lab 6: Reviewing and Debugging AI-Generated PyTorch Code →](../lab06-reviewing-and-debugging-ai-generated-pytorch-code/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

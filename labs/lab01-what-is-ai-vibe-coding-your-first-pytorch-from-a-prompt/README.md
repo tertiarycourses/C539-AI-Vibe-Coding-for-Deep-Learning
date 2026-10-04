@@ -1,6 +1,6 @@
 # Lab 1 — What Is AI Vibe Coding — Your First PyTorch from a Prompt
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 01:** AI Vibe Coding for PyTorch Fundamentals  
 > **Learning outcome:** Explain what AI vibe coding is and generate, read, run and verify your first PyTorch script from a plain-language prompt.
 
 ## Goal
@@ -105,4 +105,4 @@ Your specific prompt produced a script that prints torch.Size([6, 3]), a float32
 
 [All labs](../README.md) · [Lab 2: Setting Up Cursor, GitHub Copilot and Claude for PyTorch →](../lab02-setting-up-cursor-github-copilot-and-claude-for-pytorch/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_

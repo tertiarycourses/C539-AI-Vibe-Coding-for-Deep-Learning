@@ -1,6 +1,6 @@
 # Lab 10 — Generating Training Loops, Optimizers and Metrics from Prompts
 
-> **Course:** AI Vibe Coding with PyTorch Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
+> **Course:** AI Vibe Coding for Deep Learning (`C539`) · **Topic 02:** Vibe Coding Neural Networks  
 > **Learning outcome:** Refactor training into one reusable fit function and compare optimizers and learning rates with it.
 
 ## Goal
@@ -127,4 +127,4 @@ engine.py's fit runs both train_wear.py and train_qc.py unchanged and reproduces
 
 [← Lab 9: Vibe Coding a Classification Model with Softmax and Cross Entropy](../lab09-vibe-coding-a-classification-model-with-softmax-and-cross-entropy/README.md) · [All labs](../README.md) · [Lab 11: Saving, Loading and Iterating on Models →](../lab11-saving-loading-and-iterating-on-models/README.md)
 
-_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.0 · 20 August 2026_
+_Tertiary Infotech Academy Pte Ltd · C539 · Version v1.1 · 4 October 2026_
